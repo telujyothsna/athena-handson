@@ -1,0 +1,31 @@
+{
+  "slides": [
+    {
+      "title": "Opportunities for students and recent grads",
+      "content": "Are you a student or recent college grad? athenahealth is a great place to grow professionally and make a real difference in the world.",
+      "button": {
+        "txt": "View job openings",
+        "link": "http://www.athenahealth.com/careers"
+      },
+      "img": "/images/image002.png"
+    },
+    {
+      "title": "Slide 2 : Opportunities for students and recent grads",
+      "content": "Are you a student or recent college grad? athenahealth is a great place to grow professionally and make a real difference in the world.",
+      "button": {
+        "txt": "View job openings",
+        "link": "http://www.athenahealth.com/careers"
+      },
+      "img": "/images/image002.png"
+    },
+    {
+      "title": "Slide 3 : Opportunities for students and recent grads",
+      "content": "Are you a student or recent college grad? athenahealth is a great place to grow professionally and make a real difference in the world.",
+      "button": {
+        "txt": "View job openings",
+        "link": "http://www.athenahealth.com/careers"
+      },
+      "img": "/images/image002.png"
+    }
+  ]
+}
